@@ -1,0 +1,28 @@
+.detailBook {
+  width: 90%;
+  margin: 5%;
+  height: 90vh;
+}
+
+.detailPic {
+  max-height: 75%;
+  max-width: 70%;
+  padding-left: 15%;
+}
+
+.detailPic img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.detailInfos {
+  width: 100%;
+  text-align: center;
+}
+
+.sameAuthor {
+  height: 25%;
+  bottom: 0;
+  position: absolute;
+}

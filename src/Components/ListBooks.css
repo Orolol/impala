@@ -1,0 +1,23 @@
+.bookinfo {
+  font-size: 12px;
+  color: black;
+  text-align: center;
+  width: 100%;
+}
+
+.booklist {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  overflow-x: auto;
+}
+
+.thumb {
+  max-width: 80%;
+  margin: 0 10%;
+}
+
+.book {
+  width: 18%;
+  padding: 1%;
+}
